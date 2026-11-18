@@ -119,7 +119,8 @@ Penjelasan:
 - Data disimpan dengan **prepared statement** (`mysqli_prepare`, `mysqli_stmt_bind_param`, `mysqli_stmt_execute`) supaya aman dari SQL Injection.
 - Setelah tersimpan, halaman diarahkan ke `index.php` memakai `header()`.
 
-![Form Tambah](screenshots/07-tambah.png)
+<img width="1279" height="434" alt="image" src="https://github.com/user-attachments/assets/441495c6-b8f0-4ff0-83c8-7b5766a3e27d" />
+
 ![Hasil Tambah](screenshots/08-tambah-hasil.png)
 
 ## 8. Mengubah Data / Update (`ubah.php`)
