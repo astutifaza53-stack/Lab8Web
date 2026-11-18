@@ -1,8 +1,11 @@
 # Lab8Web - Praktikum 8: PHP dan Database MySQL
 
-**Nama:** (isi nama)
-**NIM:** (isi NIM)
-**Kelas:** (isi kelas)
+**Nama:** Astuti
+
+**NIM:** 312510320
+
+**Kelas:** I252A
+
 **Mata Kuliah:** Pemrograman Web OBE
 
 ## Tujuan
