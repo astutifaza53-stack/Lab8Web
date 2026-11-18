@@ -131,7 +131,8 @@ Penjelasan:
 - `id` dikirim lewat input `hidden`.
 - Query `UPDATE` dijalankan dengan prepared statement. Kolom `gambar` hanya diubah jika ada file baru yang diunggah.
 
-![Form Ubah](screenshots/09-ubah.png)
+<img width="1682" height="804" alt="image" src="https://github.com/user-attachments/assets/9684cb56-61bb-40c9-a8a1-61beb4226138" />
+
 ![Hasil Ubah](screenshots/10-ubah-hasil.png)
 
 ## 9. Menghapus Data / Delete (`hapus.php`)
