@@ -134,7 +134,8 @@ Penjelasan:
 <img width="966" height="484" alt="image" src="https://github.com/user-attachments/assets/f1a2800e-4be9-44fb-85c5-55a35b2c0071" />
 
 
-![Hasil Ubah](screenshots/10-ubah-hasil.png)
+<img width="1390" height="600" alt="image" src="https://github.com/user-attachments/assets/ce5490fa-7d53-4931-a5d2-b6a44bdb6306" />
+
 
 ## 9. Menghapus Data / Delete (`hapus.php`)
 Penjelasan: `id` diambil dari URL, lalu query `DELETE FROM data_barang WHERE id_barang = ?` dijalankan. Setelah itu halaman kembali ke `index.php`. Di `index.php` ada konfirmasi `confirm()` sebelum data dihapus.
