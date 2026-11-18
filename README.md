@@ -121,7 +121,8 @@ Penjelasan:
 
 <img width="1279" height="434" alt="image" src="https://github.com/user-attachments/assets/441495c6-b8f0-4ff0-83c8-7b5766a3e27d" />
 
-![Hasil Tambah](screenshots/08-tambah-hasil.png)
+<img width="1187" height="478" alt="image" src="https://github.com/user-attachments/assets/53e1bdbf-51d1-40ce-ab7f-4989a629a680" />
+
 
 ## 8. Mengubah Data / Update (`ubah.php`)
 Penjelasan:
