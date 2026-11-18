@@ -69,7 +69,8 @@ VALUES
 
 Perintah `INSERT INTO` memasukkan 3 baris data barang. Hasilnya dicek lewat tab **Jelajahi** (Browse).
 
-![Data](screenshots/03-data.png)
+<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/cb2c3d16-fe0f-4a94-a69d-2c6b3a9ee6ac" />
+
 
 ## 4. Membuat Folder Project
 Folder `lab8_php_database` dibuat di dalam `htdocs`, lalu diakses melalui `http://localhost/lab8_php_database/`. Halaman *Index of* tampil karena folder masih kosong.
