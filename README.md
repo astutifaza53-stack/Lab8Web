@@ -140,7 +140,8 @@ Penjelasan:
 ## 9. Menghapus Data / Delete (`hapus.php`)
 Penjelasan: `id` diambil dari URL, lalu query `DELETE FROM data_barang WHERE id_barang = ?` dijalankan. Setelah itu halaman kembali ke `index.php`. Di `index.php` ada konfirmasi `confirm()` sebelum data dihapus.
 
-![Hapus](screenshots/11-hapus.png)
+<img width="1355" height="602" alt="image" src="https://github.com/user-attachments/assets/15cac115-be8d-4f62-92d9-a5c768bca476" />
+
 
 ---
 
