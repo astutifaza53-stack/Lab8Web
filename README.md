@@ -32,7 +32,7 @@ Lab8Web/
 ## 1. Persiapan: Menjalankan Apache dan MySQL
 Web server Apache dan database MySQL dijalankan lewat **XAMPP Control Panel** dengan menekan tombol **Start** pada modul Apache dan MySQL. Keduanya berstatus *running* (berwarna hijau), Apache memakai port 80 dan 443, MySQL memakai port 3306.
 
-![XAMPP](screenshots/01-xampp.png)
+<img width="660" height="412" alt="image" src="https://github.com/user-attachments/assets/06e8cd3a-1fcc-4a2b-ab2e-68929620d5e0" />
 
 ## 2. Membuat Database dan Tabel
 Pada phpMyAdmin (`http://localhost/phpmyadmin/`) dibuat database `latihan1`, kemudian tabel `data_barang` lewat tab **SQL**.
