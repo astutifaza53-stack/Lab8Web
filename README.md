@@ -108,7 +108,8 @@ Penjelasan:
 - Jika tidak ada data, tampil tulisan "Belum ada data".
 - `htmlspecialchars()` dipakai agar output aman dari XSS.
 
-![Index](screenshots/06-index.png)
+<img width="1660" height="557" alt="image" src="https://github.com/user-attachments/assets/71eabfc8-1059-4c73-8bf4-db9b66bd8393" />
+
 
 ## 7. Menambah Data / Create (`tambah.php`)
 Penjelasan:
