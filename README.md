@@ -53,7 +53,8 @@ CREATE TABLE data_barang (
 
 Penjelasan: `id_barang` adalah *primary key* yang bertambah otomatis (`auto_increment`). Kolom `harga_beli` dan `harga_jual` bertipe `decimal`, sedangkan `gambar` menyimpan nama file gambar.
 
-<img width="1904" height="689" alt="image" src="https://github.com/user-attachments/assets/2f395c5a-ac7c-4def-941c-422984ac7bac" />
+<img width="1916" height="843" alt="image" src="https://github.com/user-attachments/assets/1cd90a9a-3a0c-4269-b675-808cbd6798d6" />
+
 
 
 ## 3. Menambahkan Data Awal
