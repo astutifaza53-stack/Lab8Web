@@ -96,7 +96,8 @@ if ($conn == false) {
 
 Penjelasan: `mysqli_connect()` menghubungkan PHP ke MySQL memakai host, user, password, dan nama database. Jika gagal, program menampilkan pesan lalu berhenti (`die()`). Untuk pengujian, tanda `#` pada `echo "Koneksi berhasil"` dihapus sementara sehingga pesan sukses tampil.
 
-![Koneksi](screenshots/05-koneksi.png)
+<img width="1240" height="223" alt="image" src="https://github.com/user-attachments/assets/8acec03d-3b9c-407d-b064-c1a85dfe3d1b" />
+
 
 ## 6. Menampilkan Data / Read (`index.php`)
 Penjelasan:
