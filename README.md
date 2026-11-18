@@ -131,7 +131,8 @@ Penjelasan:
 - `id` dikirim lewat input `hidden`.
 - Query `UPDATE` dijalankan dengan prepared statement. Kolom `gambar` hanya diubah jika ada file baru yang diunggah.
 
-<img width="1682" height="804" alt="image" src="https://github.com/user-attachments/assets/9684cb56-61bb-40c9-a8a1-61beb4226138" />
+<img width="966" height="484" alt="image" src="https://github.com/user-attachments/assets/f1a2800e-4be9-44fb-85c5-55a35b2c0071" />
+
 
 ![Hasil Ubah](screenshots/10-ubah-hasil.png)
 
